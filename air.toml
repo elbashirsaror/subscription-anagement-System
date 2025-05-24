@@ -1,0 +1,8 @@
+root = "."
+
+[build]
+cmd = "go test subscription-management-system/backend/tests -v"
+delay = 100
+exclude_dir = ["vendor"]
+full_reload = false
+only_watch = ["**/*.go"]
