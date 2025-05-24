@@ -2,7 +2,7 @@ package subscription
 
 import (
 	"context"
-	"ieltsAiTutor/backend/config"
+	"github.com/elbashirsaror/subscription-management-system/backend/config"
 	"log"
 	"time"
 

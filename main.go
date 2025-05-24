@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 	"github.com/gofiber/fiber/v2"
-	"ieltsAiTutor/backend/config"
-	"ieltsAiTutor/backend/api/auth"
-	"ieltsAiTutor/backend/api/subscription/listener" // ✅ Add this import
+	"github.com/elbashirsaror/subscription-management-system/backend/config"
+	"github.com/elbashirsaror/subscription-management-system/backend/api/auth"
+	"github.com/elbashirsaror/subscription-management-system/backend/api/subscription/listener" // ✅ Add this import
 
 )
 

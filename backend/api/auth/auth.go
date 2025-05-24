@@ -3,7 +3,7 @@ package auth
 import (
 	"log"
 	"github.com/gofiber/fiber/v2"
-	"ieltsAiTutor/backend/config"
+	"github.com/elbashirsaror/subscription-management-system/backend/config"
 	"firebase.google.com/go/auth"
 )
 
