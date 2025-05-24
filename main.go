@@ -5,7 +5,7 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/elbashirsaror/subscription-management-system/backend/config"
 	"github.com/elbashirsaror/subscription-management-system/backend/api/auth"
-	"github.com/elbashirsaror/subscription-management-system/backend/api/subscription/listener" // ✅ Add this import
+	"github.com/elbashirsaror/subscription-management-system/backend/api/subscription" // ✅ Add this import
 
 )
 

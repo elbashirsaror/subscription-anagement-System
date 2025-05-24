@@ -3,7 +3,7 @@ package subscription
 import (
 	"context"
 	"fmt"
-	"ieltsAiTutor/backend/config"
+	"github.com/elbashirsaror/subscription-management-system/backend/config"
 	"log"
 
 	"cloud.google.com/go/firestore"

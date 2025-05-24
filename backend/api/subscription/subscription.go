@@ -1,7 +1,7 @@
 package subscription
 
 import (
-	"ieltsAiTutor/backend/api/subscription/revoke" // ✅ Import separated functions
+	"github.com/elbashirsaror/subscription-management-system/backend/api/subscription" // ✅ Import separated functions
 	"log"
 	"time"
 )
